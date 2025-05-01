@@ -1,0 +1,9 @@
+tensorflow>=2.9
+gradio
+numpy
+pillow
+wandb
+opencv-python     # para el web_scraping
+torch             # para el web_scraping / SAM
+segment-anything  # SAM repo
+
